@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krunal-Dhargave
 - 👀 I’m interested in Automating stuff with python,python API, 🏃,🏋️‍♂️
-- 🌱 I’m currently learning building web apps with python and using AI to incease my productivity
+- 🌱 I’m currently learning how to build web apps with python and use of AI to incease my productivity
 - 💞️ I’m looking to collaborate on python Automation project, web app projects 
 - 📫 How to reach me ...
 
